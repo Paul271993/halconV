@@ -1,0 +1,151 @@
+h1 
+{
+    background-color: red;
+    height: 100px;
+    
+    
+    
+}
+
+.halcon
+    {
+    color: seashell;
+    margin-left: 120px;
+    position: relative;
+    top: 50px;
+    font-family: sans-serif;
+}
+.viajes
+{
+    color: seashell;
+    position: relative;
+    left: 230px; bottom: 57px;
+    font-family: sans-serif;
+    
+}
+
+.vacaciones
+{
+    color: seashell;
+    position: relative;
+    left: 350px; bottom: 105px;
+    font-family: sans-serif;
+    text-decoration: underline;
+    
+}
+
+.vuelos
+{
+    color: seashell;
+    position: relative;
+    left: 480px; bottom: 144px;
+    font-family: sans-serif;
+}
+
+.barrita
+{
+    color: seashell;
+    position: relative;
+    left: 567px; bottom: 190px;
+   
+}
+.agencias
+{
+    color: seashell;
+    position: relative;
+    left: 600px; bottom: 250px;
+}
+
+/* .fa-map-marker-alt
+{
+    color: black;
+    position: relative;
+    left: 800px; bottom: 250px;
+} */
+
+
+/* .map-marker-alt::before
+{
+    color: black;
+    position: relative;
+    left: 700px; bottom: 250px;
+    content: "\f3c5";
+} */
+
+img
+{
+    position: relative;
+    left: 190px; bottom: 210px;
+}
+
+/* @font-face {
+    font-family: "FontAwesome";
+    src: url("https://fontawesome.com/icons/map-marker-alt?style=solid");
+  }
+  
+  p {
+    font-size: 200%;
+  }
+  
+   .fa-map-marker-alt::before {
+    font-family: "FontAwesome", sans-serif;
+    content: "\f3c5";
+  }
+  
+   .fa-map-marker-alt::before {
+    font-family: "FontAwesome", sans-serif;
+    content: "\f3c5";
+  } */
+
+.imagenGrande
+{
+    position: relative;
+    right: 230px; top: 10px;
+}
+
+
+.cuadroFormulario1
+{
+    background-color: rgb(47, 39, 54);
+    height: 120px; width: 950px;
+    position: absolute;
+    left: 200px;
+    top: 550px;
+
+}
+
+.cuadroFormulario2
+{
+    color: cornsilk;
+    position: absolute;
+    top: 560px;
+    left: 210px;
+}
+
+.caja1
+{
+    position: absolute;
+    bottom: 1px; left: 230px;
+    
+}
+
+.caja2
+{
+    position: absolute;
+    bottom: 1px; left: 470px;
+}
+
+
+.boton1
+{
+    position: absolute;
+    bottom: 1500px;
+}
+
+.caja3
+{
+    position: absolute;
+    bottom: 1px; left: 715px;
+}
+
+
