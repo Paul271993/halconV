@@ -149,3 +149,12 @@ img
 }
 
 
+#formulario
+{
+    position: absolute;
+    bottom: 320px;
+    margin-left: 200px;
+    color: white;
+}
+
+

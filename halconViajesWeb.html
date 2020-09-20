@@ -21,17 +21,33 @@
 
         <div><img src="alerta.png"></div>
         <div class="imagenGrande"><img src="halconViaje.png" height="350" width= 1400px></div>
-        <!-- <img src="halconViaje.png" height="100" style="max-width: 120px"> -->
+        
 
         <div><h4><div class="cuadroFormulario1"></div><div class="cuadroFormulario2">Tu vuelo más hotel al mejor precio</div></h4></div>
 
-        <form><div class="caja1"><label for="name">Origen:</label><input type="text" name="nombredelacaja" id="Origen"></div>
-        <button><div class="boton1" onclick="recogerDatos()"></div>Buscar</button></form>
+        
 
-        <form><div class="caja2"><label for="name">Destino:</label><input type="text" name="nombredelacaja" id="Destino"></div>
-        <button><div class="boton2" onclick="datosDestino()"></div>Buscar</button></form>
 
-        <div><div class="caja3"><label for="name">Pasajeros:</label><input type="text" name="nombredelacaja" id="Pasajeros"></div>
+        <form id="formulario">
+           
+            <div class="rellenar">
+          
+              <label for="origen">Origen</label>
+              <td><input type="text" name="origen" value="" /></td>
+          
+              <label for="pasajeros">Pasajeros</label>
+              <td><input type="text" name="pasajeros" value="" /></td>
+          
+              <label for="destino">Destino</label>
+              <td><input type="text" name="destino" value="" /></td>
+          
+              
+            
+          
+              <button type="submit" value="Enviar" id="botonBuscar">Buscar</button>
+          
+            </div>
+          </form>
         
         
     
